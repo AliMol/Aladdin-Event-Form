@@ -1,0 +1,13 @@
+.navbar-orange {
+    background-color: #f57209;
+}
+.brand-title {
+    vertical-align: bottom;
+    font-size: 14px;
+}
+.navbar .nav-link {
+    color: white !important;
+}
+navbar-user {
+    font-size: 16px;
+}
