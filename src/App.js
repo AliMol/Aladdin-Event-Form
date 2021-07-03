@@ -1,12 +1,13 @@
-import Header from './components/layout/Header';
 import './styles/layout/App.css';
-import AddNewEvent from './components/AddNewEvent'
+import { BrowserRouter as Router } from 'react-router-dom';
+import Routes from './routes';
+
 function App() {
+
   return (
-    <div className="App">
-      <Header></Header>
-      <AddNewEvent></AddNewEvent>
-    </div>
+    <Router>
+      <Routes />
+    </Router>
   );
 }
 

@@ -54,3 +54,48 @@
   display: block;
   width: 100%;
 }
+.navbar-white {
+  background-color: #ffff;
+  color: black !important;
+}
+.navbar-white .nav-link {
+  color: black;
+  /* font-family: Lato; */
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+}
+.navbar-white button {
+  color: black;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+}
+.navbar-white button:focus {
+  text-decoration: none;
+}
+.clickable {
+  cursor: pointer;
+}
+
+.dropdown-toggle::after {
+  margin-left: 1.055em !important;
+}
+
+.btn-border-orange {
+  background-color: white !important;
+  border: 1px solid #fa8010 !important;
+  color: #fa8010 !important;
+  font-size: 16px !important;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.btn-border-gray {
+  background-color: white !important;
+  border: 1px solid rgba(0, 0, 0, 0.12) !important;
+  color: #585858 !important;
+  font-size: 16px !important;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}

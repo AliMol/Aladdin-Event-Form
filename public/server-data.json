@@ -1,0 +1,490 @@
+{
+    "RFQ": {
+        "Total": "200",
+        "Details": [
+            {
+                "Period": "Jan",
+                "Amount": "25"
+            },
+            {
+                "Period": "Feb",
+                "Amount": "45"
+            },
+            {
+                "Period": "Mar",
+                "Amount": "20"
+            },
+            {
+                "Period": "Apr",
+                "Amount": "30"
+            },
+            {
+                "Period": "May",
+                "Amount": "60"
+            },
+            {
+                "Period": "Jun",
+                "Amount": "80"
+            },
+            {
+                "Period": "Jul",
+                "Amount": "110"
+            },
+            {
+                "Period": "Aug",
+                "Amount": "136"
+            },
+            {
+                "Period": "Sep",
+                "Amount": "100"
+            },
+            {
+                "Period": "Oct",
+                "Amount": "130"
+            },
+            {
+                "Period": "Nov",
+                "Amount": "140"
+            },
+            {
+                "Period": "Dec",
+                "Amount": "125"
+            }
+        ]
+    },
+    "Quotation": {
+        "Total": "157",
+        "Details": [
+            {
+                "Period": "Jan",
+                "Amount": "50"
+            },
+            {
+                "Period": "Feb",
+                "Amount": "70"
+            },
+            {
+                "Period": "Mar",
+                "Amount": "20"
+            },
+            {
+                "Period": "Apr",
+                "Amount": "30"
+            },
+            {
+                "Period": "May",
+                "Amount": "45"
+            },
+            {
+                "Period": "Jun",
+                "Amount": "80"
+            },
+            {
+                "Period": "Jul",
+                "Amount": "110"
+            },
+            {
+                "Period": "Aug",
+                "Amount": "196"
+            },
+            {
+                "Period": "Sep",
+                "Amount": "140"
+            },
+            {
+                "Period": "Oct",
+                "Amount": "130"
+            },
+            {
+                "Period": "Nov",
+                "Amount": "220"
+            },
+            {
+                "Period": "Dec",
+                "Amount": "125"
+            }
+        ]
+    },
+    "ClamedOffers": {
+        "Total": "74",
+        "Details": [
+            {
+                "Period": "Jan",
+                "Amount": "25"
+            },
+            {
+                "Period": "Feb",
+                "Amount": "45"
+            },
+            {
+                "Period": "Mar",
+                "Amount": "20"
+            },
+            {
+                "Period": "Apr",
+                "Amount": "30"
+            },
+            {
+                "Period": "May",
+                "Amount": "60"
+            },
+            {
+                "Period": "Jun",
+                "Amount": "80"
+            },
+            {
+                "Period": "Jul",
+                "Amount": "110"
+            },
+            {
+                "Period": "Aug",
+                "Amount": "130"
+            },
+            {
+                "Period": "Sep",
+                "Amount": "100"
+            },
+            {
+                "Period": "Oct",
+                "Amount": "130"
+            },
+            {
+                "Period": "Nov",
+                "Amount": "140"
+            },
+            {
+                "Period": "Dec",
+                "Amount": "125"
+            }
+        ]
+    },
+    "Orders": {
+        "Total": "45",
+        "Details": [
+            {
+                "Period": "Jan",
+                "Amount": "25"
+            },
+            {
+                "Period": "Feb",
+                "Amount": "45"
+            },
+            {
+                "Period": "Mar",
+                "Amount": "20"
+            },
+            {
+                "Period": "Apr",
+                "Amount": "37"
+            },
+            {
+                "Period": "May",
+                "Amount": "60"
+            },
+            {
+                "Period": "Jun",
+                "Amount": "89"
+            },
+            {
+                "Period": "Jul",
+                "Amount": "110"
+            },
+            {
+                "Period": "Aug",
+                "Amount": "130"
+            },
+            {
+                "Period": "Sep",
+                "Amount": "160"
+            },
+            {
+                "Period": "Oct",
+                "Amount": "130"
+            },
+            {
+                "Period": "Nov",
+                "Amount": "140"
+            },
+            {
+                "Period": "Dec",
+                "Amount": "68"
+            }
+        ]
+    },
+    "OpenCases": {
+        "Total": "200",
+        "Details": [
+            {
+                "Period": "Jan",
+                "Amount": "25"
+            },
+            {
+                "Period": "Feb",
+                "Amount": "30"
+            },
+            {
+                "Period": "Mar",
+                "Amount": "20"
+            },
+            {
+                "Period": "Apr",
+                "Amount": "30"
+            },
+            {
+                "Period": "May",
+                "Amount": "76"
+            },
+            {
+                "Period": "Jun",
+                "Amount": "80"
+            },
+            {
+                "Period": "Jul",
+                "Amount": "20"
+            },
+            {
+                "Period": "Aug",
+                "Amount": "130"
+            },
+            {
+                "Period": "Sep",
+                "Amount": "64"
+            },
+            {
+                "Period": "Oct",
+                "Amount": "89"
+            },
+            {
+                "Period": "Nov",
+                "Amount": "140"
+            },
+            {
+                "Period": "Dec",
+                "Amount": "125"
+            }
+        ]
+    },
+    "Meetings": {
+        "TotalMeeting": {
+            "Total": "255",
+            "Requested": "135",
+            "Scheduled": "80",
+            "Conducted": "40"
+        },
+        "TotalOperator": {
+            "Total": "68",
+            "Requested": "40",
+            "Scheduled": "8",
+            "Conducted": "20"
+        },
+        "TotalParticipante": {
+            "Total": "187",
+            "Requested": "100",
+            "Scheduled": "60",
+            "Conducted": "27"
+        },
+        "Rarings": [
+            {
+                "Stars": "5",
+                "Amount": "232"
+            },
+            {
+                "Stars": "4",
+                "Amount": "390"
+            },
+            {
+                "Stars": "3",
+                "Amount": "178"
+            },
+            {
+                "Period": "2",
+                "Amount": "45"
+            },
+            {
+                "Stars": "1",
+                "Amount": "12"
+            },
+            {
+                "Stars": "5",
+                "Amount": "232"
+            }
+        ]
+    },
+    "Companies": [
+        {
+            "Id": 3,
+            "Name": "AL Arabiya",
+            "Role": "Exhbitor",
+            "Matches": 28,
+            "Meetings": 6
+        },
+        {
+            "Id": 5,
+            "Name": "Burnberry",
+            "Role": "Visitor",
+            "Matches": 30,
+            "Meetings": 6
+        },
+        {
+            "Id": 8,
+            "Name": "Ozon Inc",
+            "Role": "Visitor",
+            "Matches": 40,
+            "Meetings": 13
+        },
+        {
+            "Id": 9,
+            "Name": "Prima",
+            "Role": "Visitor",
+            "Matches": 22,
+            "Meetings": 5
+        },
+        {
+            "Id": 10,
+            "Name": "Prima Ver",
+            "Role": "Sponsor",
+            "Matches": 42,
+            "Meetings": 18
+        },
+        {
+            "Id": 3,
+            "Name": "AL Arabiya",
+            "Role": "Exhbitor",
+            "Matches": 28,
+            "Meetings": 6
+        },
+        {
+            "Id": 5,
+            "Name": "Burnberry",
+            "Role": "Visitor",
+            "Matches": 30,
+            "Meetings": 6
+        },
+        {
+            "Id": 8,
+            "Name": "Ozon Inc",
+            "Role": "Visitor",
+            "Matches": 40,
+            "Meetings": 13
+        },
+        {
+            "Id": 9,
+            "Name": "Prima",
+            "Role": "Visitor",
+            "Matches": 22,
+            "Meetings": 5
+        },
+        {
+            "Id": 10,
+            "Name": "Prima Ver",
+            "Role": "Sponsor",
+            "Matches": 42,
+            "Meetings": 18
+        },
+        {
+            "Id": 3,
+            "Name": "AL Arabiya",
+            "Role": "Exhbitor",
+            "Matches": 28,
+            "Meetings": 6
+        },
+        {
+            "Id": 5,
+            "Name": "Burnberry",
+            "Role": "Visitor",
+            "Matches": 30,
+            "Meetings": 6
+        },
+        {
+            "Id": 8,
+            "Name": "Ozon Inc",
+            "Role": "Visitor",
+            "Matches": 40,
+            "Meetings": 13
+        },
+        {
+            "Id": 9,
+            "Name": "Prima",
+            "Role": "Visitor",
+            "Matches": 22,
+            "Meetings": 5
+        },
+        {
+            "Id": 10,
+            "Name": "Prima Ver",
+            "Role": "Sponsor",
+            "Matches": 42,
+            "Meetings": 18
+        },
+        {
+            "Id": 3,
+            "Name": "AL Arabiya",
+            "Role": "Exhbitor",
+            "Matches": 28,
+            "Meetings": 6
+        },
+        {
+            "Id": 5,
+            "Name": "Burnberry",
+            "Role": "Visitor",
+            "Matches": 30,
+            "Meetings": 6
+        },
+        {
+            "Id": 8,
+            "Name": "Ozon Inc",
+            "Role": "Visitor",
+            "Matches": 40,
+            "Meetings": 13
+        },
+        {
+            "Id": 9,
+            "Name": "Prima",
+            "Role": "Visitor",
+            "Matches": 22,
+            "Meetings": 5
+        },
+        {
+            "Id": 10,
+            "Name": "Prima Ver",
+            "Role": "Sponsor",
+            "Matches": 42,
+            "Meetings": 18
+        },
+        {
+            "Id": 3,
+            "Name": "AL Arabiya",
+            "Role": "Exhbitor",
+            "Matches": 28,
+            "Meetings": 6
+        },
+        {
+            "Id": 5,
+            "Name": "Burnberry",
+            "Role": "Visitor",
+            "Matches": 30,
+            "Meetings": 6
+        },
+        {
+            "Id": 8,
+            "Name": "Ozon Inc",
+            "Role": "Visitor",
+            "Matches": 40,
+            "Meetings": 13
+        },
+        {
+            "Id": 9,
+            "Name": "Prima",
+            "Role": "Visitor",
+            "Matches": 22,
+            "Meetings": 5
+        },
+        {
+            "Id": 10,
+            "Name": "Prima Ver",
+            "Role": "Sponsor",
+            "Matches": 42,
+            "Meetings": 18
+        }
+    ]
+}

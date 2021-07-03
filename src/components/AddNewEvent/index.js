@@ -3,7 +3,7 @@ import '../../styles/addNewEvent.css'
 import { CreateNewEventWizard } from './CreateNewEventWizard'
 import { EventFormContainer } from './EventFormContainer'
 
-const index = () => {
+const AddNewEvent = () => {
     return (
         <div>
             <CreateNewEventWizard></CreateNewEventWizard>
@@ -14,4 +14,4 @@ const index = () => {
     )
 }
 
-export default index
+export default AddNewEvent

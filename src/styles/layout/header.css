@@ -5,9 +5,21 @@
     vertical-align: bottom;
     font-size: 14px;
 }
-.navbar .nav-link {
-    color: white !important;
+.navbar-orange .nav-link {
+    color: white;
 }
-navbar-user {
+.navbar-user {
     font-size: 16px;
+}
+
+.nav-links {
+    margin-left: 90px;
+}
+
+.active {
+    color: #ffe5a2 !important;
+    border-bottom: 3px solid white;
+}
+.navbar {
+    padding-bottom: 0 !important;
 }
