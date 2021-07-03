@@ -31,10 +31,10 @@ const Dashboard = () => {
             <div className="d-flex justify-content-center">
                 <div className="dashboard-widget-container">
                     <Row>
-                        <Col>
+                        <Col md={6} sm={12}>
                             <MeetingScheduled data={data} />
                         </Col>
-                        <Col>
+                        <Col md={6} sm={12}>
                             <MeetingRating data={data} />
                         </Col>
                     </Row>

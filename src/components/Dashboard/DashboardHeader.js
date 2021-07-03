@@ -11,22 +11,20 @@ import PrinterIcon from './printer.svg'
 const DashboardHeader = () => {
     return (
         <Navbar className="navbar-white" variant="light">
-            <NavDropdown className="" title="EXPO 2020 Dubai UAE">
-                <NavDropdown.Item>Profile</NavDropdown.Item>
-                <NavDropdown.Divider />
-                <NavDropdown.Item>Logout</NavDropdown.Item>
+            <NavDropdown className="" title="EXPO 2020 Dubai UAE" disabled={true}>
+
             </NavDropdown>
             <Form inline className="ml-auto">
-                <Button variant="link">
+                <Button variant="link" className="d-none d-md-block">
                     <div className="d-flex">
                         <img src={PrinterIcon} />
                         <span className="ml-2">Print</span>
                     </div>
                 </Button>
-                <Button variant="link">
+                <Button variant="link" className="d-none d-md-block" >
                     <div className="d-flex">
                         <img src={DownloadIcon} />
-                        <span className="ml-2">Download as PDF</span>
+                        <span className="ml-2 d-none d-md-block">Download as PDF</span>
                     </div>
                 </Button>
             </Form>

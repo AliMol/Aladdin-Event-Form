@@ -23,3 +23,6 @@
 .navbar {
     padding-bottom: 0 !important;
 }
+.navbar-toggler-icon {
+    color: white !important;
+}
